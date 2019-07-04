@@ -29,7 +29,7 @@
               <td><div class = "body">{{$student->img}}</div></td>
               <td><div class = "body">{{$student->group_id}}</div></td>
          
- 
+
 
 </tr>
 @endforeach

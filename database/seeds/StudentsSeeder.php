@@ -13,7 +13,7 @@ class StudentsSeeder extends Seeder
      */
     public function run()
     {
-        $count = 50;
+        $count = 10;
         for ($i =0; $i <$count; $i++) {
        factory(Students::class)->create(
            ['group_id' => $this->random_group()

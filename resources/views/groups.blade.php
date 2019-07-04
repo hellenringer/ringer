@@ -11,12 +11,12 @@
 <body>
     <table class = "table table-sm">
         <thead>
-<th>Название</th>
+<th>ID группы</th>
 <th>Описание</th>
 <th>Оценка по русскому</th>
 <th>Оценка по математике</th>
 <th>Оценка по английскому</th>
-<th>Успеваемость</th>
+
 
         </thead>
 <tbody>
@@ -28,7 +28,7 @@
               <td><div class = "body">{{$group->average_math}}</div></td>
               <td><div class = "body">{{$group->average_rus}}</div></td>
               <td><div class = "body">{{$group->average_eng}}</div></td>
-              <td><div class = "body">{{'0'}}</div></td>
+             
  
 
 </tr>
