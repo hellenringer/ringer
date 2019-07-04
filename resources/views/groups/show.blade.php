@@ -21,6 +21,18 @@
                 <label for="disabledTextInput">ФИО студента</label>
                 <input type="text" value="{{$group->description}}" placeholder="{{$group->description}}" name="description">
               </div>
+              <div>
+                  <label for="disabledTextInput">Номер телефона</label>
+                  <input type="text" value="{{$group->average_math}}" placeholder="{{$group->average_math}}" name="average_math">
+                </div>
+                <div>
+                    <label for="disabledTextInput">Дата рождения</label>
+                    <input type="text" value="{{$group->average_rus}}" placeholder="{{$group->average_rus}}" name="average_rus">
+                  </div>
+                  <div>
+                      <label for="disabledTextInput">Город</label>
+                      <input type="text" value="{{$group->average_eng}}" placeholder="{{$group->average_eng}}" name="average_eng">
+                    </div>
             <div class="input-group-prepend">
              
               <button class="btn btn-outline-info" type="submit">Принять изменения</button></div>
