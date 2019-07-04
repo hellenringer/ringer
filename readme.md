@@ -1,2 +1,2 @@
 Поставьте пять :) 
-![alt text](https://www.nastol.com.ua/pic/201310/1920x1200/nastol.com.ua-61665.jpg)
+![alt text](https://pp.userapi.com/c854128/v854128385/82591/tpd4ObQfcyI.jpg)
