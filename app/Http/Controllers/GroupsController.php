@@ -26,7 +26,7 @@ class GroupsController extends Controller
     }
     public function show(Groups $group, Request $request)
     {
-        return view('groups.show', compact('groups'));
+        return view('groups.show', compact('group'));
     }
     public function edit(Groups $group, Request $request)
     {

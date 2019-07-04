@@ -17,9 +17,9 @@ class CreateGroupsTable extends Migration
             $table->bigIncrements('id');
             $table->string('title');
             $table->string('description');
-            $table->double('average_math');
-            $table->double('average_rus');
-            $table->double('average_eng');
+            $table->longText('average_math');
+            $table->longText('average_rus');
+            $table->longText('average_eng');
             $table->timestamps();
         });
     }

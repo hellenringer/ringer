@@ -11,9 +11,9 @@ $factory->define(Groups::class, function (Faker $faker) {
     return [
         'title' => $faker ->unique() -> numberBetween(1,10),
         'description' => $faker->unique()->name,
-        'average_math' => rand(2,5),
-        'average_rus' => rand(2,5),
-        'average_eng' => rand(2,5),
+        'average_math' => $faker->e164PhoneNumber,
+        'average_rus' => $faker->date,
+        'average_eng' => $faker->city,
     ];
 });
 
