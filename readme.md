@@ -1,4 +1,4 @@
 Поставьте пять :) 
 
 
-![alt text](https://pp.userapi.com/c854128/v854128385/82591/tpd4ObQfcyI.jpg)
+![alt text](https://pp.userapi.com/c848628/v848628244/1d2b62/jliFI4Tn-HU.jpg)
